@@ -1,3 +1,3 @@
 # Test Subrepository
 
-Subrepo for main
+Subrepo for main repo
